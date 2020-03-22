@@ -19,7 +19,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   var url =
-      "https://raw.githubusercontent.com/Adrian-Cruz-SanJuan/pokedex_yuko/master/pokemon.json";
+      "https://raw.githubusercontent.com/Ignacio246/sexta_generacion/master/pokemones.json";
   PokeHub pokeHub;
 
   @override
